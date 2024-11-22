@@ -1,0 +1,24 @@
+.card-body-stars {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+}
+
+.card-body-stars-controls {
+  margin-left: 22px;
+}
+
+.card-body-stars {
+  margin-bottom: 10px;
+}
+
+.btn {
+  border: none;
+  background-color: white;
+  color: #7d8083;
+  font-size: 20px;
+  cursor: pointer;
+  margin: 0 5px;
+}
